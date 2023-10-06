@@ -271,22 +271,6 @@
       { "product_name": "Nut - Pumpkin Seeds", "product_quantity": 7, "product_price": 2223, "product_status": "ON_ACTIVATION" },
       { "product_name": "Nantucket Orange Juice", "product_quantity": 2, "product_price": 1482, "product_status": "ACTIVATED" }
     ]
-  },
-  {
-    "order_id": "01HC2EADDYBCSMBG9HX7QGZGKH",
-    "invoice_number": "747-07-1703",
-    "customer_name": "Barbra Bernardt",
-    "order_date": "2023-02-17T06:12:42Z",
-    "billing_date": "2023-12-13T04:44:16Z",
-    "due_date": "2023-05-19T00:46:45Z",
-    "total_price": 84799,
-    "discount": 1,
-    "shipping_status": "ACTIVATED",
-    "payment_status": "PAID",
-    "items": [
-      { "product_name": "Spic And Span All Purpose", "product_quantity": 1, "product_price": 1016, "product_status": "ON_ACTIVATION" },
-      { "product_name": "Pate Pans Yellow", "product_quantity": 10, "product_price": 3026, "product_status": "ON_ACTIVATION" }
-    ]
   }
 ]
 }
