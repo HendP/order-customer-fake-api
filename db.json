@@ -239,22 +239,6 @@
       { "product_name": "Parsnip", "product_quantity": 9, "product_price": 4286, "product_status": "ON_ACTIVATION" },
       { "product_name": "Bread - Petit Baguette", "product_quantity": 4, "product_price": 2860, "product_status": "ON_ACTIVATION" }
     ]
-  },
-  {
-    "order_id": "01HC2EADDMEPN21V6XX36VF0YZ",
-    "invoice_number": "474-80-4192",
-    "customer_name": "Antone Garrould",
-    "order_date": "2023-02-11T20:18:58Z",
-    "billing_date": "2023-12-14T18:32:23Z",
-    "due_date": "2023-06-25T21:20:47Z",
-    "total_price": 23289,
-    "discount": 5,
-    "shipping_status": "ACTIVATED",
-    "payment_status": "PAID",
-    "items": [
-      { "product_name": "Island Oasis - Strawberry", "product_quantity": 4, "product_price": 2822, "product_status": "ON_ACTIVATION" },
-      { "product_name": "Syrup - Monin - Blue Curacao", "product_quantity": 1, "product_price": 3234, "product_status": "ACTIVATED" }
-    ]
   }
 ]
 }
